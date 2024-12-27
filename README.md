@@ -11,4 +11,5 @@ The games controls are:
   -Space or <up_arrowkey> to jump
   -S or <down_arrowkey> to enter a tube (level 3 specific)
 
-***Currently having some issues with upload, use link to drive to open
+***Currently having some issues with upload, use link to drive to download
+https://drive.google.com/drive/folders/1Evh6PNifX9JY1n2ial846TDft1dcqeN6?usp=sharing
