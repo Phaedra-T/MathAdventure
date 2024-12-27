@@ -10,3 +10,5 @@ The games controls are:
   -D or <right_arrowkey> to go right
   -Space or <up_arrowkey> to jump
   -S or <down_arrowkey> to enter a tube (level 3 specific)
+
+***Currently having some issues with upload, use link to drive to open
