@@ -13,3 +13,8 @@ The games controls are:
 
 ***Currently having some issues with upload, use link to drive to download the full game
 https://drive.google.com/drive/folders/1Evh6PNifX9JY1n2ial846TDft1dcqeN6?usp=sharing
+
+Credits:
+Pixel frog https://pixelfrog-assets.itch.io/, for the game assets
+Jakub Varga kobliznik.artstation.com/ and MiMU STUDIO mimustudio.com/ for the UI assets
+Game Sound Solutions game-sound-solutions.jimdosite.com/ and GWriterStudio www.artstation.com/gwriterstudio for the sound effects and music
